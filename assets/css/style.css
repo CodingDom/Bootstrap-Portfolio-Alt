@@ -157,6 +157,7 @@ button[type="submit"]:hover {
     }
 
     .nav-item {
+        padding-left: 10px;
         border-bottom: 2px solid #87B8B6;
     }
 
